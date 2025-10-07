@@ -1,73 +1,95 @@
-# Welcome to your Lovable project
 
-## Project info
 
-**URL**: https://lovable.dev/projects/ea14731a-a06e-4920-a764-6a969b1848ba
+# Shreya Dwivedi – Front-End Developer Portfolio
 
-## How can I edit this code?
+Welcome! This is the portfolio website of **Shreya Dwivedi**, showcasing my skills, projects, and experience as a **Front-End Developer**. Explore my work and get in touch!
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## About Me
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/ea14731a-a06e-4920-a764-6a969b1848ba) and start prompting.
+Hi! I’m **Shreya Dwivedi**, a passionate Front-End Developer. I love building **modern, interactive, and responsive web applications** using React JS, HTML, CSS, and JavaScript.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## Skills
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+* **React JS** – Building dynamic user interfaces
+* **HTML & CSS** – Clean and responsive layouts
+* **JavaScript** – Interactive functionality and logic
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## Projects
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+### 🌡️ Temperature Tracker – Your City, Your Weather
+
+Ever wondered what the temperature is in your city right now? Just type the city name and see instantly!
+
+**Features**:
+
+* Real-time temperature tracking
+* Simple, modern, and responsive UI
+* Lightweight & fast
+
+**Tech Stack**: React JS, Vite, Tailwind CSS, OpenWeather API
+
+**Links**:
+
+* [GitHub Repository](GITHUB_LINK)
+* [Live Demo](LIVE_LINK)
+
+*More projects coming soon…*
+
+---
+
+## Experience
+
+* Worked on **personal and academic projects** using React JS, Tailwind CSS, and JavaScript
+* Experience in building **responsive and interactive UI components**
+* Familiar with **API integration** and modern frontend workflows
+
+---
+
+## Contact
+
+Feel free to reach out:
+
+* **Email:** [shreyadwivedi477@gmail.com](mailto:shreyadwivedi477@gmail.com)
+* **LinkedIn:** [Shreya Dwivedi](LINKEDIN_LINK)
+* **GitHub:** [shreyadwivedi](GITHUB_LINK)
+
+**Download Resume:** [Resume PDF](./resume.pdf)
+
+---
+
+## How to Run Portfolio Locally
+
+```bash
+# Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# Navigate to project folder
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+Open your browser at `http://localhost:8080` to see the portfolio in action.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## Features
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+* Interactive project cards with **hover effects**
+* **Dark/Light mode toggle**
+* Smooth animations and responsive design
+* Resume download directly from website
+* Links to GitHub and LinkedIn for easy connection
 
-## What technologies are used for this project?
+---
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/ea14731a-a06e-4920-a764-6a969b1848ba) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
