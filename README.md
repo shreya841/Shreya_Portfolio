@@ -92,4 +92,8 @@ Open your browser at `http://localhost:8080` to see the portfolio in action.
 * Links to GitHub and LinkedIn for easy connection
 
 ---
+🚀 Deployment
+The project is live here: (shreya-portfolio-woad.vercel.app)
 
+Deployed on Vercel with automatic builds from the GitHub repository.
+Any changes pushed to the main branch are automatically reflected on the live site.
